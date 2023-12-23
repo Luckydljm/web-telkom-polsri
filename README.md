@@ -1,5 +1,5 @@
 Hi, This me again Lucky🙌
 
-Ini adalah salah satu project freelance saya yaitu membuat landing page website untuk tugas mahasiswa Program Studi Teknik Telekomunikasi Politeknik Negeri Sriwijaya. Untuk dapat mengkases database project ini kalian bisa menghubungi saya melalui email berikut ya👌
+This is one of my freelance projects, creating a landing page for a student assignment in the Telecommunication Engineering Program at Sriwijaya State Polytechnic. To access the database for this project, you can contact me through the following email address 👌.
 
 📩 --> m.luckydialjama91@gmail.com
