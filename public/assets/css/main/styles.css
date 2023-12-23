@@ -1,0 +1,16 @@
+#sidebar .logo img {
+  height: 6rem;
+}
+
+/*
+    homepage styles
+*/
+
+.home-banner-area {
+  background-image: url(../../../assets/images/bg/banner-1.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 900px;
+  color: #fff;
+}
